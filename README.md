@@ -1,4 +1,4 @@
-# Stadxn⚡
+# Stadxn
 > **An Offline-First Embedded NFC Attendance System Built on Hard Mode.**
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
